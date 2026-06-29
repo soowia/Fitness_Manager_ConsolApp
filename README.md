@@ -1,1 +1,2 @@
 # Fitness_Manager_ConsolApp
+[Отчет по консольному и оконному приложениям](https://github.com/soowia/Fitness_Manager_ConsolApp/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82_%D0%A4%D0%B8%D1%82%D0%BD%D0%B5%D1%81%D1%81_%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80.pdf)
